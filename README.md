@@ -27,6 +27,6 @@ Goals:
 7) extensability and good user experience
 
 Inspiration:
-If it isn't clear yet, this project intends to take strong inspiration from [mpusz/units](https://github.com/mpusz/units) due to that libraries professionalism and expertise in implementing well-executed and practical code in a complex library related to this project. It should also help in providing compatability between the libraries as the ultimate goal to have a system that includes both strongly typed units and strongly typed coordinate frames.
+If it isn't clear yet, this project intends to take strong inspiration from [mpusz/units](https://github.com/mpusz/units) due to that library's professionalism and expertise in implementing well-executed and practical code in a complex library related to this project. It should also help in providing compatability between the libraries as the ultimate goal to have a system that includes both strongly typed units and strongly typed coordinate frames.
 
 If you have ideas or a lot of energy for this project, please email me at sjkcarnahan@gmail.com.
